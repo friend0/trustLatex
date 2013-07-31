@@ -1,0 +1,11 @@
+#!/bin/bash
+# Run this script to create auxiliary files telling TeXshop
+# which .tex file is the main one.
+default=paper.tex
+for f in *.tex; do
+    shop="${f}shop"
+    case $f in
+        paper*) ;;
+        *) printf $default > $shop ;;
+    esac
+done

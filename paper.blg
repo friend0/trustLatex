@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: paper.aux
+The style file: ieeetr.bst
+Database file #1: paper.bib
+Warning--entry type for "tigres:website" isn't style-file defined
+--line 24 of file paper.bib
+Warning--entry type for "graphviz" isn't style-file defined
+--line 29 of file paper.bib
+Warning--entry type for "d3" isn't style-file defined
+--line 35 of file paper.bib
+Warning--entry type for "jsPlumb" isn't style-file defined
+--line 41 of file paper.bib
+Warning--entry type for "graphDracula" isn't style-file defined
+--line 47 of file paper.bib
+You've used 16 entries,
+            1876 wiz_defined-function locations,
+            556 strings with 5882 characters,
+and the built_in function-call counts, 3698 in all, are:
+= -- 337
+> -- 174
+< -- 0
++ -- 66
+- -- 50
+* -- 261
+:= -- 506
+add.period$ -- 16
+call.type$ -- 16
+change.case$ -- 17
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 170
+empty$ -- 373
+format.name$ -- 50
+if$ -- 908
+int.to.chr$ -- 0
+int.to.str$ -- 16
+missing$ -- 7
+newline$ -- 51
+num.names$ -- 8
+pop$ -- 81
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 127
+stack$ -- 0
+substring$ -- 208
+swap$ -- 61
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 27
+width$ -- 18
+write$ -- 133
+(There were 5 warnings)

@@ -1,0 +1,74 @@
+\begin{thebibliography}{10}
+
+\bibitem{taverna}
+T.~Oinn {\em et~al.}, ``Taverna: lessons in creating a workflow environment for
+  the life sciences,'' {\em Concurrency and Computation: Practice and
+  Experience}, vol.~18, no.~10, pp.~1067--1100, 2006.
+
+\bibitem{pegasus}
+E.~Deelman, G.~Singh, M.~Su, J.~Blythe, Y.~Gil, C.~Kesselman, G.~Mehta,
+  K.~Vahi, G.~Berriman, J.~Good, {\em et~al.}, ``Pegasus: A framework for
+  mapping complex scientific workflows onto distributed systems,'' {\em
+  Scientific Programming}, vol.~13, no.~3, pp.~219--237, 2005.
+
+\bibitem{kepler}
+I.~Altintas, C.~Berkley, E.~Jaeger, M.~Jones, B.~Ludscher, and S.~Mock,
+  ``Kepler: An extensible system for design and execution of scientific
+  workflows,'' in {\em Proceedings of the 16th International Conference on
+  Scientific and Statistical Database Management}, pp.~423--424, 2004.
+
+\bibitem{discoNet}
+S.~AlSairafi, F.-S. Emmanouil, M.~Ghanem, N.~Giannadakis, Y.~Guo,
+  D.~Kalaitzopoulos, M.~Osmond, A.~Rowe, J.~Syed, and P.~Wendel, ``The design
+  of discovery net: Towards open grid services for knowledge discovery,'' {\em
+  International Journal of High Performance Computing Applications}, vol.~17,
+  no.~3, pp.~297--315, 2003.
+
+\bibitem{triana}
+I.~Taylor, M.~Shields, I.~Wang, and A.~Harrison, ``Visual grid workflow in
+  {Triana},'' {\em Journal of Grid Computing}, vol.~3, no.~34, pp.~153--169,
+  2005.
+
+\bibitem{d3}
+``D3 data driven documents,'' 2013.
+
+\bibitem{jsPlumb}
+``{jsP}lumb api,'' 2013.
+
+\bibitem{graphDracula}
+``Graph dracula website,'' 2012.
+
+\bibitem{halfViz}
+``Arbor js halfviz website,'' 2012.
+
+\bibitem{xDot}
+``xdot website,'' 2013.
+
+\bibitem{dotJquery}
+``dot jquery plugin website,'' 2013.
+
+\bibitem{mapReduce}
+P.~Nguyen and M.~Halem, ``A mapreduce workflow system for architecting
+  scientific data intensive applications,'' in {\em Proceeding of the 2nd
+  international workshop on Software engineering for cloud computing}, SECLOUD
+  '11, (New York, NY, USA), pp.~57--63, ACM, 2011.
+
+\bibitem{hadoop}
+E.~Dede, M.~Govindaraju, D.~Gunter, and L.~Ramakrishnan, ``Riding the elephant:
+  managing ensembles with hadoop,'' in {\em Proceedings of the 2011 ACM
+  international workshop on Many task computing on grids and supercomputers},
+  pp.~49--58, 2011.
+
+\bibitem{tigres:website}
+``{T}igres website,'' 2013.
+
+\bibitem{graphviz}
+``{G}raphviz website,'' 2006.
+
+\bibitem{parallelComputing}
+K.~Asanovic, R.~Bodik, B.~C. Catanzaro, J.~J. Gebis, P.~Husbands, K.~Keutzer,
+  D.~A. Patterson, W.~L. Plishker, J.~Shalf, S.~W. Williams, and K.~A. Yelick,
+  ``The landscape of parallel computing research: A view from berkeley,'' tech.
+  rep., EECS Department, University of California, Berkeley, Dec 2006.
+
+\end{thebibliography}
